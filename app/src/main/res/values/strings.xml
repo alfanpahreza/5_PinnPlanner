@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PinnPlanner_v2</string>
+    <string name="tab_text_1">Not Started</string>
+    <string name="tab_text_2">In Progress</string>
+    <string name="tab_text_3">Completed</string>
+    <string name="taskTitle">Task Title</string>
+    <string name="taskDesc">Task Description</string>
+    <string name="taskTime">Task Time</string>
+    <string name="taskDate">Task Date</string>
+    <string name="add_desc">add button</string>
+    <string name="taskTitleAutofill">Ex  : Tugas Pengembangan Perangkat Lunak</string>
+    <string name="taskDescAutofill">Ditugaskan untuk membuat web berbasis PHP</string>
+    <string name="newTaskTitlePage">Create a Task</string>
+    <string name="dateFormat">DD/MM/YYYY</string>
+    <string name="timeFormat">17:00</string>
+    <string name="buttonText">Done</string>
+    <string name="empty_not_saved">Task is not saved because it is empty</string>
+    <string name="action_1">Edit Task</string>
+    <string name="action_2">Delete Task</string>
+</resources>
