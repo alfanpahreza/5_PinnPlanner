@@ -18,3 +18,5 @@ Belum di implementasikan (fitur maupun konsep):
 - TimePicker dan DatePicker
 - Fitur reminder/notifikasi
 - UI/UX yang baik
+
+Link APK : https://drive.google.com/file/d/1hWRWgMmnx6GcgZaUqiHO7S5tE8Tpt5nv/view?usp=sharing
